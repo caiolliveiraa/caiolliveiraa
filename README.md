@@ -52,6 +52,6 @@ Sou um estudante de Sistemas para Internet. Atualmente, tenho a oportunidade de 
 <br>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=A+inovação+tecnológica;+é+a+chave+para+resolver;+os+desafios+do+mundo+moderno!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=20&center=true&vCenter=true&width=1000&lines=A+inovação+tecnológica+é+a+chave+para+resolver+os+desafios+do+mundo+moderno!)](https://git.io/typing-svg)
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/>
