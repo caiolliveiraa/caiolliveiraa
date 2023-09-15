@@ -1,12 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Caio+Oliveira.;Tenho+23+anos.;Resido+no+Brasil;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Caio+Oliveira.;Tenho+23+anos.;Resido+no+Brasil;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 
 ## Sobre 🧑‍💻
 
 ```
-Sou um estudante de Sistemas para Internet. Atualmente, tenho a oportunidade de participar da Residência Digital pelo Porto Digital e estou em constante busca por aprimorar minhas habilidades em desenvolvimento. Meu objetivo é me tornar um Desenvolvedor Back-End de Software e estou totalmente comprometido em adquirir todo o conhecimento necessário para alcançar esse objetivo.
+Sou um estudante de Sistemas para Internet. Atualmente, tenho a oportunidade de participar da Residência Digital
+pelo Porto Digital e estou em constante busca por aprimorar minhas habilidades em desenvolvimento. Meu objetivo é
+me tornar um Desenvolvedor Back-End de Software e estou totalmente comprometido em adquirir todo o conhecimento
+necessário para alcançar esse objetivo.
 ```
 
 ## Redes Sociais  📱
